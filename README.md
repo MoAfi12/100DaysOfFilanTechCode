@@ -11,4 +11,4 @@ This repository contains all my 100 Days of FilanTech Coding challenges. At the 
 * [Log - click here to see my progress](log.md)
 * [Resources - click here to see the resources I use for my Learning](resources.md)
 
-Follow me on Twitter: [HassanMaow4](https://twitter.com/HassanMaow4)
+Follow me on Twitter: [mohamed_afi12](https://twitter.com/mohamed_afi12)
