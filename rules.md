@@ -3,7 +3,7 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
-#### Day Two
+#### DAY THREE
 October 8th, 2022
 
 ## Additional Rules
